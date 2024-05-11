@@ -12,10 +12,12 @@ function App() {
     <>
       <Navbar />
       <Hero />
-      <Card/>
+  
       <Footer/>
     </>
   )
 }
 
 export default App
+
+
